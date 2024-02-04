@@ -18,8 +18,8 @@ defineProps({
 
 <!-- declare layout as persistent -->
 <script>
-import MainLayout from "../../Layouts/MainLayout.vue";
-export default {
-    layout: MainLayout,
-};
+// import MainLayout from "../../Layouts/MainLayout.vue";
+// export default {
+//     layout: MainLayout,
+// };
 </script>
